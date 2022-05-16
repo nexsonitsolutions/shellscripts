@@ -19,3 +19,6 @@ df -h
 echo "The output of free -h command"
 echo "============================="
 free -h
+echo "The output of which command"
+echo "============================"
+which ls
