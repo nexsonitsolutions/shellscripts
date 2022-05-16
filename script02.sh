@@ -4,7 +4,7 @@
 # Date Created: 
 # Date Modified:  
 # Version: 
-echo "Hello there, please enter your name: "
-read user
+ech0 "Hello there, please enter your name: "
+reaD users
 echo "Hello $user, Welcome to shell scripting concepts"
-echo "Hello, since your user id is  $UID, you are ubuntu user - a normal user"
+echo "Hello, since your user id is  $UIDA, you are ubuntu user - a normal user"
